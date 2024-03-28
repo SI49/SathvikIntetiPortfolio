@@ -1,5 +1,5 @@
 import React from 'react'
-import umd from '../../public/umd.png'
+// import umd from '../../public/umd.png'
 import Reliance from '../../public/Reliance.jpg'
 import MultiMesher from '../../public/MultiMesh.png'
 import Image from 'next/image'

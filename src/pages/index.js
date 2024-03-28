@@ -1,14 +1,14 @@
-import sathvik from '../../public/tsquare.jpg'
-import Image from 'next/image'
-import gc from '../../public/gc.jpg'
-import eg from '../../public/eg.jpg'
-import bcs from '../../public/bcs.jpg'
-import ig from '../../public/ig.png'
-import styles from '../styles/Home.module.css'
-import liquidnet from '../../public/liquidnet.png'
-import umd from '../../public/umd.png'
-import { useRouter } from 'next/router';
-import Link from 'next/link';
+// import sathvik from '../../public/tsquare.jpg'
+// import Image from 'next/image'
+// import gc from '../../public/gc.jpg'
+// import eg from '../../public/eg.jpg'
+// import bcs from '../../public/bcs.jpg'
+// import ig from '../../public/ig.png'
+// import styles from '../styles/Home.module.css'
+// import liquidnet from '../../public/liquidnet.png'
+// import umd from '../../public/umd.png'
+// import { useRouter } from 'next/router';
+// import Link from 'next/link';
 
 
 

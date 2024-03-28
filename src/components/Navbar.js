@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/NavBar.module.css'
+// import styles from '../styles/NavBar.module.css'
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 // import Logo from '@/components/Logo.js'
