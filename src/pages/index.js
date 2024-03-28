@@ -57,7 +57,7 @@ export default function Home() {
                     <ul className="text-light max-h-[240px] px-2 overflow-y-scroll">
                         <li className='p-2 border-[#24423C] border-l-2'>
                         <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
-                            8/28/2023 - Started Master's Degree in Computer Science at University of Maryland, College Park.
+                            8/28/2023 - Started Master&apos;s Degree in Computer Science at University of Maryland, College Park.
                         </li>
                         <li className='p-2 border-[#24423C] border-l-2'>
                         <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
