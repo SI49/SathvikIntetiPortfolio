@@ -8,7 +8,7 @@ const projects = () => {
     <br />
     <div className='flex font-serif px-[3rem] w-[100%] overflow-y-scroll'>
               <div>
-                  <p className=' text-light text-[100%]'>
+                  <div className=' text-light text-[100%]'>
                     <p className='text-[black] text-[150%]'>Projects</p>
                     <hr />
                     <div className='flex flex-row pt-2'>
@@ -23,7 +23,7 @@ const projects = () => {
                       </div>
                     </div>
                     &nbsp; 
-                  </p>
+                  </div>
               </div>
       </div>
       </>

@@ -16,15 +16,15 @@ export default function Home() {
     return (
         <div className='flex font-serif px-[3rem] w-[100%] overflow-y-scroll'>
             <div>
-                <p className=' text-light text-[100%]'>
+                <div className=' text-light text-[100%]'>
                     <p className='text-[black] text-[150%]'>About Me</p> 
                     <hr />
                     <p className='pt-2'>I'm a researcher & full stack software engineer based in New York, NY and around the D.C. area. I'm
                     currently pursuing a M.S. in Computer Science through University of Maryland, College Park's <a href='https://undergrad.cs.umd.edu/combined-bsms-program' target="_blank" className='text-[#0000EE] underline'>B.S./M.S. program</a>. I'm being
                     advised by <a href='https://www.cs.umd.edu/~nayeem/' target="_blank" className='text-[#0000EE] underline'>Dr. Mohammed Nayeem Teli</a>.</p>
-                </p>
+                </div>
                 <br />
-                <p className=' text-light text-[100%]'>
+                <div className=' text-light text-[100%]'>
                     <p className='text-[black] text-[150%]'>Activities </p>
                     <hr />
                     <p className='pt-2'>
@@ -49,7 +49,7 @@ export default function Home() {
                         <Image className={`w-[12rem] p-1 rounded-[10px] border-light`} src={gc} alt="gc" />
                     </div>
                     </div> */}
-                </p>
+                </div>
                 <div className="text-[100%]">
                     <p className='text-[black] text-[150%]'>News</p>
                     <hr />

@@ -10,7 +10,7 @@ const research = () => {
   <br />
   <div className='flex font-serif px-[3rem] pl-[3rem] w-[100%] overflow-y-scroll'>
               <div>
-                  <p className=' text-light text-[100%]'>
+                  <div className=' text-light text-[100%]'>
                     <p className='text-[black] text-[150%]'>Research</p>
                     <hr />
                     <div className='flex flex-row pt-2'>
@@ -30,7 +30,7 @@ const research = () => {
                           <p><a href="https://drive.google.com/file/d/1nTvEK3OEATAA0YreCxjT2e8CJyjkHye8/view?usp=sharing" className='text-[#0000EE] underline'>[Paper (PDF)]</a> | <a href="https://github.com/daniekpo/cmsc828i_group_project" className='text-[#0000EE] underline'>[Code]</a></p>
                       </div>
                     </div>
-                  </p>
+                  </div>
               </div>
   </div>
   </>
