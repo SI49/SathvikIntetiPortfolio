@@ -12,7 +12,7 @@ const projects = () => {
                     <p className='text-[black] text-[150%]'>Projects</p>
                     <hr />
                     <div className='flex flex-row pt-2'>
-                      <Image className='w-[300px] h-[150px]' src={terpexchange} alt='umd' />
+                      <Image className='w-[250px]' src={terpexchange} alt='umd' />
                       <div className='text-light pl-2'>
                           <p><b>TerpExchange</b></p>
                           <p><i>React Native, Supabase</i></p>

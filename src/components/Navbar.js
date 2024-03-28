@@ -6,6 +6,9 @@ import { useRouter } from 'next/router';
 //import { motion } from 'framer-motion'
 import sathvik from '../../public/tsquare.jpg'
 import Image from 'next/image'
+import LinkedIn from '../../public/linkedin.png'
+import Instagram from "../../public/ig.png"
+import Github from "../../public/github.png"
 
 const ModifyLink = ({ href, title, className = "" }) => {
 
@@ -42,8 +45,19 @@ const NavBar = () => {
                             <ModifyLink href="/research" title="research" className="" />
                             <ModifyLink href="/experience" title="experience" className="" />
                             <ModifyLink href="/projects" title="projects" className="" />
-                            <ModifyLink href="/contact" title="contact" className="" />
+                            {/* <ModifyLink href="/contact" title="contact" className="" /> */}
                         </nav>
+                        &nbsp;
+                        &nbsp;
+                        <div className='flex flex-row items-center justify-center'>
+                            <p><a href="https://drive.google.com/file/d/1POTZ7K4LtG162nlg4RDhwJNksk5VpWKG/view?usp=sharing" className='text-[#0000EE] underline'>CV</a></p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="https://github.com/SI49"><Image className={`w-[25px] h-[25px]`} src={Github} alt="sathvik" /></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="https://www.linkedin.com/in/sathvik-inteti/"><Image className={`w-[25px] h-[25px]`} src={LinkedIn}  alt="sathvik" /></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="https://www.instagram.com/sathvikinteti/"><Image className={`w-[25px] h-[25px]`} src={Instagram} href="" alt="sathvik" /></a>
+                        </div>
                     </div>
                 </div>
         </div>

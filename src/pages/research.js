@@ -18,7 +18,7 @@ const research = () => {
                       <div className='text-light pl-2'>
                           <p><b>Multi-Mesher: Diffusion Driven 2D to 3D Mesh Reconstruction</b></p>
                           <p>Sai Teja Gilukara, Shyamsundar Prabhakar Indra, <u>Sathvik Inteti</u>, Andrew Zhong</p>
-                          <p><a href="" className='text-[#0000EE] underline'>[Paper (PDF)]</a> | <a href="" className='text-[#0000EE] underline'>[Code]</a></p>
+                          <p><a href="https://drive.google.com/file/d/1DDLVJJj9tIO-mXEQ0hQIa4bus_Q-TO8v/view?usp=sharing" className='text-[#0000EE] underline'>[Paper (PDF)]</a> | <a href="" className='text-[#0000EE] underline'>[Code]</a></p>
                       </div>
                     </div>
                     &nbsp; 

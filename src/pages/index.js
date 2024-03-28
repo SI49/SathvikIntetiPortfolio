@@ -57,15 +57,15 @@ export default function Home() {
                     <ul className="text-light max-h-[240px] px-2 overflow-y-scroll">
                         <li className='p-2 border-[#24423C] border-l-2'>
                         <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
+                            8/28/2023 - Started Master's Degree in Computer Science at University of Maryland, College Park.
+                        </li>
+                        <li className='p-2 border-[#24423C] border-l-2'>
+                        <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
                             5/23/2023 - Graduated from University of Maryland, College Park with a Bachelors Degree in Computer Science and a Minor in statistics
                         </li>
                         <li className='p-2 border-[#24423C] border-l-2'>
                         <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
                             6/05/2022 - Started internship with Liquidnet
-                        </li>
-                        <li className='p-2 border-[#24423C] border-l-2'>
-                        <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                         </li>
                         <li className='p-2 border-[#24423C] border-l-2'>
                         <span className={`relative h-2 w-2 bg-[#FCBE14] inline-block border-[#24423C] border-[1.5px] rounded-[50%] right-[13px]`}></span>

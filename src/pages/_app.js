@@ -21,9 +21,9 @@ export default function App({ Component, pageProps }) {
         <div className='overflow-y-scroll py-[3rem] w-[100%]'>
           <About />
           <Research />
-          <Projects />
           <Experience />
-          <Contact />
+          <Projects />
+          {/* <Contact /> */}
         </div>
     </main>
     </> 
