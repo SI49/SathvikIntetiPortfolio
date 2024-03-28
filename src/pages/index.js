@@ -19,8 +19,8 @@ export default function Home() {
                 <div className=' text-light text-[100%]'>
                     <p className='text-[black] text-[150%]'>About Me</p> 
                     <hr />
-                    <p className='pt-2'>I'm a researcher & full stack software engineer based in New York, NY and around the D.C. area. I'm
-                    currently pursuing a M.S. in Computer Science through University of Maryland, College Park's <a href='https://undergrad.cs.umd.edu/combined-bsms-program' target="_blank" className='text-[#0000EE] underline'>B.S./M.S. program</a>. I'm being
+                    <p className='pt-2'>I&apos;m a researcher & full stack software engineer based in New York, NY and around the D.C. area. I&apos;m
+                    currently pursuing a M.S. in Computer Science through University of Maryland, College Park&apos;s <a href='https://undergrad.cs.umd.edu/combined-bsms-program' target="_blank" className='text-[#0000EE] underline'>B.S./M.S. program</a>. I&apos;m being
                     advised by <a href='https://www.cs.umd.edu/~nayeem/' target="_blank" className='text-[#0000EE] underline'>Dr. Mohammed Nayeem Teli</a>.</p>
                 </div>
                 <br />

@@ -34,7 +34,7 @@ const NavBar = () => {
                 <div>
                     <div className="text-center">
                         &nbsp;
-                        <p>Master's Student @ <text >UMD</text></p>
+                        <p>Master&apos;s Student @ <text >UMD</text></p>
                         <p className='font-mono'>sinteti@umd.edu</p>
                         &nbsp;
                         <nav>
